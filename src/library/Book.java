@@ -26,7 +26,7 @@ public class Book {
             return isbn;
         }
 
-        public void setIsbn(long isbn) {
+        private void setIsbn(long isbn) {
             this.isbn = isbn;
         }
 
@@ -34,7 +34,7 @@ public class Book {
             return title;
         }
 
-        public void setTitle(String title) {
+        private void setTitle(String title) {
             this.title = title;
         }
 
@@ -42,7 +42,7 @@ public class Book {
             return author;
         }
 
-        public void setAuthor(String author) {
+        private void setAuthor(String author) {
             this.author = author;
         }
 
@@ -58,7 +58,7 @@ public class Book {
             return genre;
         }
 
-        public void setGenre(Genre genre) {
+        private void setGenre(Genre genre) {
             this.genre = genre;
         }
 

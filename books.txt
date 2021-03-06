@@ -8,3 +8,4 @@ La divina comedia,9507544429,Alighieri Dante,POETRY,null
 Don Quijote de la Mancha,8423349640,Miguel de Cervantes,FANTASY,null
 Frakenstein,846630407,Mary Shelley,BIOGRAPHY,null
 La teixidora de la mort,8421628844,Concha Lopez Narvaez,HORROR,null
+don quixote,9781400132171,Miguel de Cervantes,ADVENTURE,null
